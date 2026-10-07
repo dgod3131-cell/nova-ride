@@ -1,5 +1,5 @@
-export const SUPABASE_URL = "YOUR_SUPABASE_URL";
-export const SUPABASE_PUBLISHABLE_KEY = "YOUR_SUPABASE_PUBLISHABLE_KEY";
+export const SUPABASE_URL = "https://jcvdkyambhmcbulnyyda.supabase.co";
+export const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_zZY4NNJ7ZFFTJktb_lGjIQ_4_dm09qa";
 
 export const NOVA_RIDE_CONFIG = {
   startingLevel: 1,
